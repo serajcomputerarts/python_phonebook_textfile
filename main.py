@@ -57,3 +57,4 @@ ob=Test()
 # ob.delete_data_byname("Hadi")
 # update student phone by using this method
 # ob.update_student_phone_by_name("Hadi","011111")
+# Thanks for using this practice
